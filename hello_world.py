@@ -6,3 +6,6 @@ print("Hello world!")
 #promene koje se desavaju u a
 #kod koji tece
 #blaa blaa
+#promene na b koje teku
+#nastavlja se
+#u isto vreme kao i na newA
