@@ -6,3 +6,4 @@ print("Hello world!")
 #promene koje se desavaju u a
 #kod koji tece
 #blaa blaa
+#dodatak da bih testirala dummy pipeline
