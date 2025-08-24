@@ -1,0 +1,12 @@
+name: PR Merged Workflow
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+jobs:
+  echo_job:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Pull request has been merged!"
